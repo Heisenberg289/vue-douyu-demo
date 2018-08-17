@@ -6,5 +6,4 @@
 ## 更改使用本地Proxy代理，解决跨域问题
 
 ## 在线演示
-（由于在线演示有点麻烦，所以就不弄了...）
-# vue-douyu-demo
+https://wangrui9217.netlify.com/#/
